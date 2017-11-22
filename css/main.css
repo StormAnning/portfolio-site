@@ -1,0 +1,143 @@
+body
+{
+		font-family: 'Quicksand', sans-serif;
+		font-size: 18px;
+		color:##4a4a4a;
+		background:white;
+		padding-top:0px;
+		background-image:url('../images/concrete_seamless.png');
+}
+
+h1,h2,h3,h4
+{
+	font-weight: 600;
+	/**
+	font-family: 'Work Sans', sans-serif !important;
+	**/
+}
+
+h1{
+	font-size: 40px;
+	line-height: 1;
+}
+
+.uppercase{
+	 text-transform: uppercase;
+}
+
+.summList{
+	font-weight: bolder;
+    text-align: left;
+}
+
+.read-more{
+     background: transparent;
+    color: inherit;
+    border: 1px solid;
+}
+
+.detail-section{
+	display: none;
+}
+
+.navigationContainer{
+	background-color: #f8f9fa;
+	width: 100%;
+	text-align: center;
+}
+
+.nameBanner{
+	width: 100%;
+	font-size: 10vw;
+	display: block;
+}
+
+.navItems ul{
+	margin:0;
+	padding:0;
+}
+
+.navItems li{
+	display: inline;
+	margin-right: 20px;
+}
+
+.navItems a{
+    font-size: 24px;
+    color: #777575;
+}
+
+
+.current_page_item a
+{
+     color: black;
+    font-weight: bold;
+}
+
+
+footer{
+	color:white;
+	text-align:center;
+	background:#3C3744;
+	font-size:18px;
+	padding:40px;
+}
+
+
+
+footer{
+	color:#ff5f56;!important;
+}
+
+footer a{
+	color:#ff5f56;!important;
+}
+
+footer a:visited{
+	color:#ff5f56;!important;
+}
+.navbar-nav{
+	display: inline-block;
+}
+
+.navbar-nav a{
+	display: inline-block;
+}
+
+.navbar-brand{
+	font-size: 24px;
+}
+
+.nameBanner > span:first-child{
+    font-weight: bold;
+    color: #b70505;
+}
+
+.nameBanner > span{
+    font-weight: bold;
+    color: #000000;
+}
+
+.circle{
+	z-index: -1;
+  border: 3px solid black;
+  border-radius: 50%;
+  width: 100%;
+  padding-bottom: 100%;
+  margin: auto; 
+  background-size: cover;
+}
+
+@media only screen and (max-width: 750px) {
+    body {
+        font-size: 14px;
+    }
+    .skill-section{
+	    text-align: center;
+	}
+}
+
+@media only screen and (min-width: 500px) {
+    
+
+}
