@@ -102,7 +102,7 @@ get_header();
 			<p class="mt-3 text-justify">
 				I have experience writing clean code and following the principles of ‘Clean Code - Robert Martin’ to ensure my code is:
 			</p>
-			<ul class="mt-3  mx-0 pl-3">
+			<ul class="mt-3 text-left mx-0 pl-3">
 				<li>Readable and maintainable by other developers</li>
 				<li>Accepting to change and extendability</li>
 				<li>Reusable and interchangeable</li>
@@ -314,7 +314,8 @@ get_header();
 				<li>Digital painting</li>
 				<li>3D modelling</li>
 			</ul>
-			<p class="mt-3 text-justify">
+			<button class="read-more">Read More</button>
+			<p class="mt-3 detail-section text-justify">
 			I have experience creating many digital assets for clients including: Producing application screen designs, flow layouts, icons, logos, business cards, business websites, digital paintings, and many other promotional visuals.	
 			</br>
 		A gallery of non-commerical examples will be posted soon. </br>**This website and everything in it stands as one itself**
@@ -326,21 +327,35 @@ get_header();
 <div style="background: #4F6367; color: white;">
 	<div class="container pt-3 pb-3" >
 		<div class="skill-section col-xs-12 padding-sm-xl">
-		<h1 class="text-sm-left text-center">Non-Technical Skills & Experience</h1>
-		<p class="mt-3">Below are skills that while not technical in nature i've listed</p>
+		<h1 class="text-sm-left text-center">Non-Technical Skills</h1>
+		<p class="mt-3">Skills that are not technical but i feel are important assets of mine</p>
 		<button class="read-more">Read More</button>
 			<div class="mt-3 detail-section text-justify">
 			<p>
-			As mentioned in my previous skills i have undergone numerous projects that required work in all levels of the application stack:
+
+			<strong>Self Learner</strong> - I have always been a strong self learner, not being afraid to dive into a new domain. I love learning new subjects and always jump at the opportunity to learn something new. In the past 6 months alone I have read and completed the following books and courses:
+			</p>
 			<ul class="mt-3 text-left mx-0 pl-3">
-				<li>Creating and designing persistence stores (MySQL databases, NoSQL MongoDB databases)</li>
-				<li>Working with various web application technologies - WildFly, Express etc.</li>
-				<li>Creating API’s that intermediate between applications and the persistence stores </li>
-				<li>Setting up the servers that will host these persistence stores and APIs (typically provided by AWS)</li>
-				<li>Performing Sys-Admin duties on many projects are once</li>
-				<li>Writing DLLs</li>
-				<li>See the sections above for more intricate details</li>
+			<li>Computer Systems: A Programmer's Perspective -Randal E. Bryant,‎ David R. O'Hallaron</li>
+			<li>The Algorithm Design Manual - Skiena</li>
+			<li>6.042J Mathematics for Computer Science - MIT Opencourseware</li>
+			<li>6.006 Introduction to Algorithms  - MIT Opencourseware</li>
+			<li>6.046J Design and Analysis of Algorithms  - MIT Opencourseware</li>
+			<li>CS75 Building Dynamic Websites - Harvard</li>
+			<li>CS50 - Harvard</li>
+			<li>Introduction to Databases - Stanford Lagunita</li>
 			</ul>
+			<p>
+			Each covered an in depth amount of information that i self studied in my own time, not for any qualification but for the pure satisfaction of attaining knowledge. 
+			</br></br>
+			<strong>Hard working</strong> - I am an extremely hard working individual both academically and physically and have proven myself numerous times. During my time at Kent University I proved myself academically by achieving an 82%+ average across all 24 courses taken over the 3 years; and in addition to this proved myself physically last summer by finally achieving my goals of benching 140kgx5 and hitting 10% body fat.
+			</br></br>
+			<strong>Experience Writing specifications </strong> - Meeting clients to understand their requirements, translating these into unambiguous specifications, and ensuring technological terms are conveyed in an understandable way.
+			</br></br>
+			<strong>Adaptable</strong> - I work on several unrelated projects simultaneously each with their own varying stacks, requiring me to simultaneously interchange between a multitude of platforms, languages, and domains, demanding a flexible mindset and good memory. To add to this it is quite often a necessity to pick up new languages quickly to meet deadlines, pushing me to become an efficient learner.
+			</br></br>
+			<strong>Good communication and time managment</strong> - I’m used to working within a team across several projects. Communicating design choices, API functionalities, system progress, and avoiding code conflicts during development whilst also managing and prioritising the timelines of each project.
+
 			</p>
 			</div>
 			</div>
@@ -352,21 +367,20 @@ get_header();
 	<div class="container pt-3 pb-3" >
 		<div class="skill-section col-xs-12 padding-sm-xl">
 		<h1 class="text-sm-left text-center">Personal Interests</h1>
-		<p class="mt-3">Below are skills that while not technical in nature i've listed</p>
+		<p class="mt-3">Interests and things I do in my spare time</p>
 		<button class="read-more">Read More</button>
 			<div class="mt-3 detail-section text-justify">
 			<p>
-			As mentioned in my previous skills i have undergone numerous projects that required work in all levels of the application stack:
-			<ul class="mt-3 text-left mx-0 pl-3">
-				<li>Creating and designing persistence stores (MySQL databases, NoSQL MongoDB databases)</li>
-				<li>Working with various web application technologies - WildFly, Express etc.</li>
-				<li>Creating API’s that intermediate between applications and the persistence stores </li>
-				<li>Setting up the servers that will host these persistence stores and APIs (typically provided by AWS)</li>
-				<li>Performing Sys-Admin duties on many projects are once</li>
-				<li>Writing DLLs</li>
-				<li>See the sections above for more intricate details</li>
+			When i’m not coding i can usually be found chillin with friends and doing the things that I enjoy:
+		    </p>
+		    <ul class="mt-3 text-left mx-0 pl-3">
+		    	<li><strong>Sports -</strong> I’ve played sports all my life growing up and I still play Cricket, Golf, and Football in local leagues on the weekends with my friends.</li>
+			<li><strong>Films/TV -</strong> ’ve always loved watching movies and tv shows and there's not many good films/shows that I haven’t seen!</li>
+			<li><strong>Travelling</strong></li>
+			<li><strong>Reading -</strong> Manga, Comics etc</li>
+			<li><strong>Bodybuilding and Powerlifting -</strong> (PB bench of 140kgx5) and will often PT friends</li>
+			<li><strong>Sleeping and Eating! -</strong> My love for both of these should not be underestimated!</li>
 			</ul>
-			</p>
 			</div>
 		</div>
 	</div>
@@ -378,7 +392,13 @@ get_header();
 		<div class="skill-section col-xs-12 padding-sm-xl">
 		<h1 class="text-sm-left text-center">Contact me</h1>
 			<p class="mt-3 text-justify">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at dapibus sapien, vitae lobortis nunc. Cras sed ligula eget lectus imperdiet eleifend vel in turpis. Donec a rutrum turpis. Nullam tempus purus ac lorem porta, quis sagittis purus fermentum. Praesent faucibus metus ac tempor laoreet. Aenean id elementum ante. Cras egestas a justo non hendrerit. Cras bibendum consectetur facilisis. Proin interdum nibh a odio auctor, in luctus felis ullamcorper. Vivamus placerat lacus odio, eget vehicula sapien ultricies id. Sed tincidunt magna orci. Integer eget elementum nulla. Duis pulvinar at lorem at porta. Proin ultrices pellentesque velit elementum ullamcorper. Integer vestibulum nulla nec feugiat condimentum. Etiam sit amet pretium metus, a tincidunt felis.</p>
+				As I said at the start I am looking for a venture that is going to present me with challenges that will take me to the next level as a software engineer and computer scientist. There are a broad range of fields i am interested in including Machine Learning, Distributed Systems, Software Architecture, and many more. If you believe you’re the company that has the challenges i’m looking for I’d love to hear from you! 
+
+			</br></br>
+			My cv & email can be found below. Thanks for reading this far!!
+			</br></br>
+			-Storm
+			</p>
 			</div>
 	</div>
 </div>
