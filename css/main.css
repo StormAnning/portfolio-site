@@ -25,6 +25,14 @@ h1{
 	 text-transform: uppercase;
 }
 
+.infoList{
+	text-align: left;
+    margin-top: 1rem!important;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    padding-left: 1rem!important;
+}
+
 .summList{
 	font-weight: bolder;
     text-align: left;
